@@ -1,0 +1,12 @@
+---
+title: "dataspice"
+format: html
+---
+
+This data was created by Kayla Stan and published by the University of Alberta in Canada for free use under public domain. 
+
+The data set describes binned climate data, or collected data that has been grouped togeather at different lattitudes and longitudes across the country of Canada from the year 2000-2019.  
+
+The title of this data set is "Replication Data for: Financial stability in response to climate change in a northern temperate economy - Binned Canadian Climate Data"
+
+ https://doi.org/10.7910/DVN/TNXUUN
