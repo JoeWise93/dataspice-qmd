@@ -3,10 +3,34 @@ title: "dataspice"
 format: html
 ---
 
-This data was created by Kayla Stan and published by the University of Alberta in Canada for free use under public domain. 
+This data was created by Kayla Stan and published by the University of Alberta in Canada for free use under public domain.
 
-The data set describes binned climate data, or collected data that has been grouped togeather at different lattitudes and longitudes across the country of Canada from the year 2000-2019.  
+The data set describes binned climate data, or collected data that has been grouped togeather at different lattitudes and longitudes across the country of Canada from the year 2000-2019.
 
 The title of this data set is "Replication Data for: Financial stability in response to climate change in a northern temperate economy - Binned Canadian Climate Data"
 
- https://doi.org/10.7910/DVN/TNXUUN
+https://doi.org/10.7910/DVN/TNXUUN
+
+Starting with step 4
+
+After choosing my data set I used the command edit_creators() to fill out metadata on the contents creators.
+
+![](images/Picture1.png)
+
+Next I used the command edit_access() to fill out the metadata about where the data set can be found
+
+![](images/Picture2.png)
+
+Then I used the command edit_biblio() to use the metadata to describe the variables used in the data set.
+
+![](images/Picture3.png)
+
+Lastly I used the command edit_attributes() to describe the data for aid in future use.
+
+![](images/Picture4.png)
+
+Once all my metadata was saved, I compiled it all into a .json file
+
+![](images/Picture5.png)
+
+Finally I used the .json file to render a index.html file for better visualization.
